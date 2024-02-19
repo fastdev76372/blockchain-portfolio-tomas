@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-### [Live Site](https://shiva-blockchain-portfolio.netlify.app/)
+### [Live Site](https://tomas-blockchain-portfolio.vecel.app/)
 
 ![Portfolio Website](/public/images/portfolio.JPG)
 
