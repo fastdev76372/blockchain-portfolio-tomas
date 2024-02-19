@@ -40,15 +40,15 @@ export const projects = [
     id: 2,
   },
 
-  // {
-  //   title: "🔮DAO Dapp Using🧭 EIP-1167: Minimal Proxy ",
-  //   description: "🔥Full Stack DAO Dapp with EIP-1167🔥 DAO members can create a proposal to purchase NFT from NFT-marketplace. 10 minutes is the voting period for each proposal. DAO Members can vote on the proposal. After voting period, proposal can be executed ⏩ NFT is purchased from the NFT Marketplace using ETH in the proposal contract.",
-  //     image: '/images/DAO_dapp.gif',
-  //     tags: ['Solidity', 'Hardhat', 'Ethers.js', 'Next.js'],
-  //   source: 'https://github.com/ShivaShanmuganathan/fullstack-dao-dapp',
-  //   visit: 'http://fullstack-dao-dapp.vercel.app/',
-  //   id: 3,
-  // },
+  {
+    title: "🔮DAO Dapp Using🧭 EIP-1167: Minimal Proxy ",
+    description: "🔥Full Stack DAO Dapp with EIP-1167🔥 DAO members can create a proposal to purchase NFT from NFT-marketplace. 10 minutes is the voting period for each proposal. DAO Members can vote on the proposal. After voting period, proposal can be executed ⏩ NFT is purchased from the NFT Marketplace using ETH in the proposal contract.",
+      image: '/images/DAO_dapp.gif',
+      tags: ['Solidity', 'Hardhat', 'Ethers.js', 'Next.js'],
+    source: 'https://github.com/tomaswinner/fullstack-dao-dapp',
+    visit: 'https://fullstack-dao-dapp-two.vercel.app/',
+    id: 3,
+  },
 
   // {
   //   title: " 💸 Dutch Auction 🤑ERC20 Marketplace",
